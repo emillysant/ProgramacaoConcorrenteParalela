@@ -33,6 +33,4 @@ Implemente o método call da interface Callable<Integer> para ler o arquivo e co
 A classe ParallelLogProcessor deve inicializar um ExecutorService com um pool de threads fixo e submeter múltiplas instâncias de LogProcessor para processamento.
 Implemente um método main que inicialize a ParallelLogProcessor, passe uma lista de arquivos de log e a palavra a ser contada, e exiba o total de ocorrências após o processamento.
 
-#   P r o g r a m a c a o C o n c o r r e n t e P a r a l e l a 
- 
  

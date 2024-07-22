@@ -1,0 +1,5 @@
+2024-07-19 12:00:00 INFO  User login
+2024-07-19 12:01:00 INFO  User logout
+2024-07-19 12:02:00 ERROR Authentication error
+2024-07-19 12:03:00 INFO  Session timeout
+2024-07-19 12:04:00 ERROR Failed to load user profile

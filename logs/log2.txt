@@ -1,0 +1,5 @@
+2024-07-19 11:00:00 INFO  Starting backup
+2024-07-19 11:01:00 INFO  Backup in progress
+2024-07-19 11:02:00 ERROR Backup failed due to insufficient space
+2024-07-19 11:03:00 INFO  Cleaning up
+2024-07-19 11:04:00 ERROR Cleanup failed
